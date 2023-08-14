@@ -25,8 +25,6 @@ Arduino prototyped rigcol:
 
 
 
-## How to run
-
 # Running the Sentry Bot project
 1) Install the following code libraries as shown below:
 2) Wire up the Arduino test rig as shown above, with the web camera USB connected to your computer
@@ -35,6 +33,3 @@ Arduino prototyped rigcol:
 5) Press the "Esc" key to end the Python code, (note: you will have to close the Python kernel before editing and rerunning the Python code).  Python project Kernal to close shown below:
 
 <img src="https://github.com/Tac321/Stewart-Platform/blob/master/Images/Stewart_MATLAB.png" width="700" />
-
-
-
