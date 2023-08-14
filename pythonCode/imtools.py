@@ -21,7 +21,7 @@ def get_imlist(path):
 
 def compute_average(imlist):
     """    Compute the average of a list of images. """
-    """ Post SCD edit"""
+    """ Post edit"""
     
     # open first image and make into array of type float
 
