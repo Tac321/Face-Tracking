@@ -31,6 +31,6 @@ Begin the Arduino project first, then run the Python code
 2) Wire up the Arduino test rig as shown above, with the web camera USB connected to your computer
 3) Upload the Arduino "sketch" onto the Arduino board
 4) while the Arduino project is running the program, run the Python project next ""
-5) Press the "Esc" key to end the Python code, (note: you will have to close the Python kernel before editing and rerunning the Python code).  Python project Kernal to close shown below:
+5) Press the "Esc" key to end the Python code, (note: you will have to close the Python kernel before editing and re-running the Python code).  Python project Kernal to close shown below:
 
 <img src="https://github.com/Tac321/Stewart-Platform/blob/master/Images/Stewart_MATLAB.png" width="700" />
