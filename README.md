@@ -19,9 +19,9 @@ finally we wired together the face tracking sentry bot:
 
 <img src="https://github.com/Tac321/Face-Tracking/blob/main/Images/fritzing%20Arduino%20schematic.png" width="700" />
 
-Arduino prototyped rig:
+### Arduino prototyped rig:
 
-<img src="https://github.com/Tac321/Stewart-Platform/blob/master/Images/LegExcursionsExtrimumExcursionTestTrajectory_10_10_2018.jpg" width="700" />
+<img src="https://github.com/Tac321/Face-Tracking/blob/main/Images/Robot%20Sentry%20Rig%20photo.png" width="700" />
 
 
 
