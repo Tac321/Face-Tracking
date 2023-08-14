@@ -33,4 +33,4 @@ Begin the Arduino project first, then run the Python code
 4) while the Arduino project is running the program, run the Python project next ""
 5) Press the "Esc" key to end the Python code, (note: you will have to close the Python kernel before editing and re-running the Python code).  Python project Kernal to close shown below:
 
-<img src="https://github.com/Tac321/Stewart-Platform/blob/master/Images/Stewart_MATLAB.png" width="700" />
+<img src="https://github.com/Tac321/Face-Tracking/blob/main/Images/kernel.png" width="700" />
