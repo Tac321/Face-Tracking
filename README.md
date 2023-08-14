@@ -15,7 +15,8 @@ finally we wired together the face tracking sentry bot:
 
 <img src="https://github.com/Tac321/Mean-Shift-Tracking-MST-/blob/master/Picture3.jpg" width="700" />
 
-the wiring schematic of the Arduino rig is shown below:
+### Arduino Wiring schematic:
+
 <img src="https://github.com/Tac321/Face-Tracking/blob/main/Images/fritzing%20Arduino%20schematic.png" width="700" />
 
 Arduino prototyped rig:
