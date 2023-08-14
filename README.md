@@ -6,7 +6,7 @@ Face tracking projects in Arduino and Python
 Below we show the tuning of the face track alg (edge detection, blob tracking, Face detection,  LKF Face tracking)
 
 video:
-<img src="https://github.com/Tac321/Face-Tracking/blob/main/Images/github%20Face%20Track.gif" width="700" />
+<img src="https://github.com/Tac321/Face-Tracking/blob/main/Images/github%20Face%20TrackF.gif" width="700" />
 
 ### Arduino Wiring schematic:
 
