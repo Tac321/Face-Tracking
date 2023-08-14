@@ -9,7 +9,7 @@ Begin the Arduino project first, then run the Python code
 Below we show the tuning of the face track alg (edge detection, blob tracking, Face detection,  LKF Face tracking)
 
 video:
-<img src="https://github.com/Tac321/Stewart-Platform/blob/master/Images/Stewart_MATLAB.png" width="700" />
+<img src="https://github.com/Tac321/Face-Tracking/blob/main/Images/Megazord%20Face%20Tracker.mp4" width="700" />
 
 finally we wired together the face tracking sentry bot:
 
